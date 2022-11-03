@@ -37,9 +37,9 @@ int main()
 
         const double MonthCodes[13] = { 0, 1, 4, 4, 0, 2, 5, 0, 3, 6, 1, 4, 6 };
         const double CenturyCodes[50] = { 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6,
-                                    4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4 };
+                                          4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4, 2, 0, 6, 4 };
         const std::string DayNames[7] = { "| Saturday  ", "| Sunday    ", "| Monday    ", "| Tuesday   ",
-                                    "| Wednesday ", "| Thursday  ", "| Friday    " };
+                                          "| Wednesday ", "| Thursday  ", "| Friday    " };
 
         int repeat = 0;
         while (repeat < DoubleChoice)
